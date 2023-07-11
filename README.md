@@ -48,11 +48,44 @@ Set Github repository name and public repo
 Open the Github repository
 ![Open the Github repository](https://github.com/luiscoco/SpringBoot_Sample1-created-with-VSCode/assets/32194879/b81929ee-b75c-4dd7-863d-2759cb16bc68)
 
+## Following steps
+Set the running port in the application_properties file
+![Set the running port in the application_properties file](https://github.com/luiscoco/SpringBoot_Sample1-created-with-VSCode/assets/32194879/9c084e5f-efa0-44ce-9922-db5c6f3e0407)
 
+pom_xml modifications added
+![pom_xml modifications added](https://github.com/luiscoco/SpringBoot_Sample1-created-with-VSCode/assets/32194879/a8e51217-2aff-49d7-afea-95dda7fa8d5f)
 
+To install maven run the command:
+```
+mvn clean install
+```
 
+To run the project type the command:
+```
+mvn spring-boot:run
+```
+or 
+```
+mvn spring-boot:run -Dspring-boot.run.arguments=--server.port=8080
+```
 
+We also added a "Hello World" message in the code:
+```java
+package com.example.demo;
 
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class DemoApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(DemoApplication.class, args);
+        System.out.println("Hello World");
+    }
+
+}
+```
 
 
 
