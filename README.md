@@ -87,6 +87,24 @@ public class DemoApplication {
 }
 ```
 
+Also you can set the running port in the pom.xml file:
+
+POM.xml Configuration:
+Alternatively, you can configure the server.port property directly in your project's pom.xml file. Add the following configuration within the <build> section:
+```xml
+<plugins>
+    <plugin>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-maven-plugin</artifactId>
+        <configuration>
+            <arguments>
+                <argument>--server.port=8080</argument>
+            </arguments>
+        </configuration>
+    </plugin>
+</plugins>
+```
+
 
 
 
