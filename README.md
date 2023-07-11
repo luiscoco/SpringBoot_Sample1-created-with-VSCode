@@ -21,6 +21,33 @@ Input Artifact Id for your project
 Specify packaging type
 ![Specify packaging type](https://github.com/luiscoco/SpringBoot_Sample1-created-with-VSCode/assets/32194879/7c49d8c2-8b32-4e3e-addd-593d76538691)
 
+Specify the Java version
+![Specify the Java version](https://github.com/luiscoco/SpringBoot_Sample1-created-with-VSCode/assets/32194879/d27229a4-05ba-4ea5-9fea-777193bacd3a)
+
+Search for dependencies
+![Search for dependencies](https://github.com/luiscoco/SpringBoot_Sample1-created-with-VSCode/assets/32194879/db8baab0-b02c-492e-bd02-7679ce5c0d69)
+
+Select the project folder
+![Select the project folder](https://github.com/luiscoco/SpringBoot_Sample1-created-with-VSCode/assets/32194879/065d0289-0ee5-4945-80d5-f83058cba253)
+
+Open the SpringBoot project
+![Open the SpringBoot project](https://github.com/luiscoco/SpringBoot_Sample1-created-with-VSCode/assets/32194879/0d4c87ef-1dd4-4291-b9fc-4debdd5ae66d)
+
+SpringBoot project structure and default code
+![SpringBoot project structure and default code](https://github.com/luiscoco/SpringBoot_Sample1-created-with-VSCode/assets/32194879/4b52e179-c0dd-48d8-8190-c37ab0c60678)
+
+pom_xml file
+![pom_xml file](https://github.com/luiscoco/SpringBoot_Sample1-created-with-VSCode/assets/32194879/f046845b-cf69-4201-abc6-638510460bfa)
+
+To create the Github repository
+![To create the Github repository](https://github.com/luiscoco/SpringBoot_Sample1-created-with-VSCode/assets/32194879/179edb08-6e93-425a-ada4-996cf62d9a17)
+
+Set Github repository name and public repo
+![Set Github repository name and public repo](https://github.com/luiscoco/SpringBoot_Sample1-created-with-VSCode/assets/32194879/8c95a3c8-6d54-4ab6-917b-256fc5773a7a)
+
+Open the Github repository
+![Open the Github repository](https://github.com/luiscoco/SpringBoot_Sample1-created-with-VSCode/assets/32194879/b81929ee-b75c-4dd7-863d-2759cb16bc68)
+
 
 
 
